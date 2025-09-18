@@ -83,3 +83,10 @@ layout: default
 　　流量用完前，系统一般会发短信提醒。及时通过App或拨打充值码（比如Digicel是*140#）续命就好。
 
 　　总之，在牙买加保持连接，真的比想象中简单。现在，放心去享受你的雷鬼、海滩和蓝山咖啡吧！
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Jamaica SIM 卡购买与激活指南](https://faciylike.github.io/jamaica-sim-guides)
